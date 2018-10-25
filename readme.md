@@ -1,7 +1,7 @@
 # Summer2winter
 #### Convert summer images to winter images using cyclegan
 Here are some examples:
-Pictures to the left are original pictures which were taken during summer. And images to the right are produced by cyclegan.
+Pictures to the left are original pictures which were taken during summer. And images to the right are produced by cyclegan.  
 ![](https://pp.userapi.com/c846016/v846016545/1169a3/L8q1p_UKOfQ.jpg)
 ![](https://pp.userapi.com/c846016/v846016545/1169ab/qfCnY6ubyqU.jpg)
 ![](https://pp.userapi.com/c846016/v846016545/1169b3/cdNUWlODjEg.jpg)
